@@ -1,0 +1,19 @@
+{
+  "name": "query-builder",
+  "version": "1.0.0",
+  "description": "A small utility for abstracting SQL boilerplate and managing complex single-round-trip querysets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devin-M-D/query-builder.git"
+  },
+  "author": "Devin-M-D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devin-M-D/query-builder/issues"
+  },
+  "homepage": "https://github.com/Devin-M-D/query-builder#readme"
+}
