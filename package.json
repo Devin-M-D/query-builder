@@ -1,7 +1,7 @@
 {
-  "name": "query-builder",
+  "name": "@devin-m-d/query-builder",
   "version": "1.0.0",
-  "description": "A small utility for abstracting SQL boilerplate and managing complex single-round-trip querysets",
+  "description": "A small utility for abstracting MySql boilerplate and managing procedure-style single-round-trip querysets",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
